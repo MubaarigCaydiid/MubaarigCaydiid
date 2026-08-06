@@ -1,7 +1,5 @@
 
-### ◇ About 
-@My portfolio🖤
-
+### ◇ About o🖤
   <img src="mubarakfetch (8).svg" alt="mubarakfetch" width="100%" />
 
 ◇ About Me.
