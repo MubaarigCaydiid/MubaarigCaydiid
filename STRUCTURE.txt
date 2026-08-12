@@ -1,0 +1,12 @@
+mubaarig-portfolio/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── .gitignore
+├── STRUCTURE.txt
+├── assets/
+│   └── profile.png
+└── .github/
+    └── workflows/
+        └── check.yml
